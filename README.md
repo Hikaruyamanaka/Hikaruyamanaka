@@ -4,7 +4,7 @@
 
 ### Olá, seja bem-vindo(a) ao meu GitHub!
   
-💼 Estou em busca de um emprego! </br>
+💼 Estou em busca de uma oportunidade na área de tecnologia! </br>
 👨‍🎓 Atualmente estou realizando o bootcamp da Generation Brasil para formação como Dev Java Jr Full-Stack</br>
 🧔 He/Ele </br>
    Nascido no Japão

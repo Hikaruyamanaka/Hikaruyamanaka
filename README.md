@@ -14,7 +14,7 @@
 </div>  
   
 ----
-<div align="center">
+<!-- <div align="center">
  
   <a href="https://github.com/m-arceloabreu">
    
@@ -22,7 +22,7 @@
    
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-arceloabreu&layout=compact&langs_count=7&theme=dracula"/>
    
-</div>
+</div> -->
 
 ----
 

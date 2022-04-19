@@ -5,9 +5,9 @@
 ### Olá, seja bem-vindo(a) ao meu GitHub!
   
 💼 Estou em busca de uma oportunidade na área de tecnologia! </br>
-👨‍🎓 Atualmente estou realizando o bootcamp da Generation Brasil para formação como Dev Java Jr Full-Stack</br>
+👨‍🎓 Recentemente me formei no bootcamp da Generation Brasil para formação como Dev Java Jr Full-Stack </br>
 🧔 He/Ele </br>
-   Nascido no Japão
+   Nascido no Japão </br>
 🎮 Apaixonado por Games, Animes e Músicas </br>
 🚩 Mauá-SP, BR </br>
 

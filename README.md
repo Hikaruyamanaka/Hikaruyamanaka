@@ -5,25 +5,14 @@
 ### Olá, seja bem-vindo(a) ao meu GitHub!
   
 💼 Estou em busca de uma oportunidade na área de tecnologia! </br>
-👨‍🎓 Recentemente me formei no bootcamp da Generation Brasil para formação como Dev Java Jr Full-Stack </br>
+👨‍🎓 Recentemente me formei no bootcamp da Generation Brasil para formação como Dev. Java Jr. Full-Stack </br>
 🧔 He/Ele </br>
-   Nascido no Japão </br>
-🎮 Apaixonado por Games, Animes e Músicas </br>
+🗾 Nascido no Japão </br>
+🎮 Apaixonado por Games, Animes, Músicas e Tecnologias </br>
 🚩 Mauá-SP, BR </br>
 
 </div>  
   
-----
-<!-- <div align="center">
- 
-  <a href="https://github.com/m-arceloabreu">
-   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=m-arceloabreu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-arceloabreu&layout=compact&langs_count=7&theme=dracula"/>
-   
-</div> -->
-
 ----
 
 ### Skill Set
